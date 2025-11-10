@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python / virtual env
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Reports / outputs
+reports/*.html
+reports/*.pdf
+reports/*.pptx
+reports/figures/
+dashboards/dist/
+*.log
+
+# IDE / editors
+.vscode/
+.idea/
