@@ -1,4 +1,4 @@
-# King County Housing Prices – Regression & EDA
+# King County Housing Prices – EDA
 
 **Goal:** Understand what drives house prices in King County and build a baseline regression model.  
 **Dataset:** King County House Sales (public dataset)  
